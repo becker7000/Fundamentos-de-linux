@@ -1,6 +1,8 @@
-# Instrucciones para instalar Ubuntu 22.10 en una maquina virtual de VirtualBox.
+# Instrucciones para instalar Ubuntu 22.10 en una maquina virtual de VirtualBox. 
 
 *Esta opción hará que su computadora trabaje más lento ya que la memoria principal (RAM) será compartida por Windows y Ubuntu.*
+
+### [Regresar](instrucciones.md)
 
 ---
 
