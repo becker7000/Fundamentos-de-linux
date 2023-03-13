@@ -33,4 +33,4 @@
 
 14. Para más información sobre la instalación puede consultar las instrucciones en el sitio oficial de Ubuntu: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
 
-15. En caso de que ésta instalación no le sea posible seguir estos pasos la alternativa sería instalar Ubuntu en una maquina virtual con VirtualBox, podrá seguir las instrucciones en el siguiente enlace: [Instrucciones para instalar Ubuntu con VirtualBox.](instrucciones_VB.md)
+15. En caso no le sea posible seguir estos pasos la alternativa sería instalar Ubuntu en una maquina virtual con VirtualBox, podrá seguir las instrucciones en el siguiente enlace: [Instrucciones para instalar Ubuntu con VirtualBox.](instrucciones_VB.md)
