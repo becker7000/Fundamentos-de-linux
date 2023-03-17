@@ -1,0 +1,5 @@
+H: , T:  
+H: 7:00 PM, T: Hacer compras 
+H: 9:00 PM, T: Lavar motocicleta 
+H: 5:00 PM, T: Estudiar C++ 
+H: 10:00 PM, T: Hacer ejercicio 
